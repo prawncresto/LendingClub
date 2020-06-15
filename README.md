@@ -1,4 +1,4 @@
-#Lending Club Analysis
+# Lending Club Analysis
 This project aims to understand the lending behaviour of lending club and volume of loans created over time using timeseries analysis.
 
 ## Introduction
