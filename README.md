@@ -1,4 +1,4 @@
-# Project Title
+#Lending Club Analysis
 This project aims to understand the lending behaviour of lending club and volume of loans created over time using timeseries analysis.
 
 ## Introduction
@@ -10,10 +10,10 @@ The data can be downloaded from https://www.lendingclub.com/developers/api-overv
 ### Getting Started
 
 List are the packages that need to be installed:
-import pandas as pd
-import seaborn as sns
-import numpy as np
-import matplotlib.pyplot as plt
-from statsmodels.tsa.arima_model import ARIMA
-import sklearn
+*import pandas as pd
+*import seaborn as sns
+*import numpy as np
+*import matplotlib.pyplot as plt
+*from statsmodels.tsa.arima_model import ARIMA
+*import sklearn
 
